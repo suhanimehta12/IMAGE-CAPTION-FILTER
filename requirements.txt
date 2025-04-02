@@ -1,1 +1,5 @@
-streamlit
+streamlit==1.15.0
+Pillow==9.1.0
+transformers==4.23.0
+torch==1.12.1
+altair==4.1.0
